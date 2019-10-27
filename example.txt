@@ -1,1 +1,3 @@
-Mój pierwszy projekt na github.
+1. Mój pierwszy projekt na github.
+2. Example 2: Nikt nie będzie z tego strzelał. 
+
